@@ -33,5 +33,8 @@
   "bugs": {
     "url": "https://github.com/d-a-n/react-native-modal-picker/issues"
   },
+  "devDependencies": {
+    "react": "^15.6.1"
+  },
   "homepage": "https://github.com/d-a-n/react-native-modal-picker"
 }
